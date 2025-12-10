@@ -175,14 +175,6 @@ http://localhost/PhotoGenic/Admin Panel/
 
 ## 📸 Screenshots (Optional Section)
 
-Add screenshots later if you want:
-
-```
-/screenshots
-   ├── homepage.png
-   ├── gallery.png
-   ├── admin-dashboard.png
-```
 
 ---
 
