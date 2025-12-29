@@ -175,12 +175,13 @@ http://localhost/PhotoGenic/Admin Panel/
 
 ## 📸 Screenshots (Optional Section)
 
+<img width="1915" height="942" alt="Screenshot 2025-12-29 125631" src="https://github.com/user-attachments/assets/3c166913-874b-4b63-95be-e75772bdcba1" />
 <img width="1899" height="925" alt="Screenshot 2025-11-09 195000" src="https://github.com/user-attachments/assets/de279dd8-4de5-4259-a03f-c50fe9460078" />
 <img width="1899" height="927" alt="Screenshot 2025-11-09 195254" src="https://github.com/user-attachments/assets/0efd1c35-5dfc-4206-9beb-2c594aa8c991" />
 <img width="1380" height="764" alt="Screenshot 2025-11-09 195604" src="https://github.com/user-attachments/assets/7f09e060-4ae0-4b59-9561-07bd80981cb8" />
 <img width="1282" height="584" alt="Screenshot 2025-11-09 195845" src="https://github.com/user-attachments/assets/38980b58-1627-4f75-859f-e6e72537fe90" />
 <img width="1919" height="1022" alt="Screenshot 2025-11-09 195953" src="https://github.com/user-attachments/assets/7c9fbb30-57d7-4768-8422-bfe8cb41cd54" />
-<img width="1915" height="942" alt="Screenshot 2025-12-29 125631" src="https://github.com/user-attachments/assets/3c166913-874b-4b63-95be-e75772bdcba1" />
+<img width="1920" height="1080" alt="Screenshot (379)" src="https://github.com/user-attachments/assets/cd973ffb-c0c9-4c43-b32b-4a6bb9789307" />
 
 ---
 
